@@ -1,4 +1,6 @@
 # TaskApp
+A starup application for adding and removing tasks to a JSON backend server
+Created by following a course aiming to step on the basics of Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
